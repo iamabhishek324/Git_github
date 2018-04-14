@@ -1,3 +1,4 @@
 # Git_github
-first projectdate 14-04-2017
-on 
+first project
+on date 14-04-2017
+ 
